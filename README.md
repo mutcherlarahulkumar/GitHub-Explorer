@@ -1,4 +1,4 @@
-#GitHub Repositories explorer
+# GitHub Repositories explorer
 
 To install dependencies : ``` npm install ```
 
